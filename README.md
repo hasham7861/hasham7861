@@ -1,4 +1,4 @@
 
 ### Hello, I'm Hasham 👋 
-#### I am a software engineer with keen interest in bidirectional streaming protocol
+#### I am a software engineer with keen interest in streaming protocols
 
