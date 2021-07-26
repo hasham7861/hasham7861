@@ -1,3 +1,3 @@
 
 ### Hello, I'm Hasham 👋 
-#### I am currrently working on the project `Fantastic Memory`, a multiplayer, pictionory game.
+#### I am currrently working on the project `fantastic-memory`, a multiplayer, pictionory game.
