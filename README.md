@@ -1,4 +1,3 @@
 
 ### Hello, I'm Hasham 👋 
-#### I am a software engineer with keen interest in message protocols
-
+#### I am currrently working on the Project Fantastic Memory, a multiplayer, pictionory game.
