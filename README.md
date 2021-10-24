@@ -4,5 +4,6 @@
 
 
 ##### 💿 Software Engineer 🇨🇦
-##### 📹 youtube.com/bleakCode 
-##### ✍🏼 bleakcode.medium.com
+📹 [youtube.com/bleakCode](youtube.com/bleakCode)
+<br>
+✍🏼 [bleakcode.medium.com](bleakcode.medium.com)
