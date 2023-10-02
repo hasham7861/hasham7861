@@ -1,6 +1,6 @@
 
 ### Hello, I'm Hasham 👋 
-#### I am currently working as a software engineer for about 4 years now.
+#### I am software engineer with passion for web app development and cloud engineering.
 
 
 ##### 💿 Software Engineer 🇨🇦
