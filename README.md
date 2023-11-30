@@ -1,6 +1,6 @@
 
 ### Hello, I'm Hasham 👋 
-#### I am software engineer with passion for web app development and cloud engineering.
+#### I am software engineer building and improving fullstack web apps.
 
 
 ##### 💿 Software Engineer 🇨🇦
