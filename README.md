@@ -7,6 +7,6 @@
 ##### 💿 Software Engineer 🇨🇦
 📹 [youtube.com/bleakCode](https://youtube.com/bleakCode)
 <br>
-✍🏼 [bleakcode.medium.com](https://bleakcode.medium.com)
+✍🏼 [hashamalam.com/blog](https://hashamalam.com/blog/))
 <br> 
 💻 [hashamalam.com](https://hashamalam.com)
